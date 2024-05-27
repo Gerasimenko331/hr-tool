@@ -1,0 +1,29 @@
+.App {
+  padding-top: 50px;
+  position: fixed;
+  top: 50px;
+  left: 20px;
+  right: 20px;
+
+}
+
+.authorized-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 95%;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.authorized-wrapper a {
+  cursor: pointer;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.authorized-wrapper a:hover {
+  text-decoration: underline;
+}
