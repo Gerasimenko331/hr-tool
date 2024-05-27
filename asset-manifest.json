@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hr-tool/static/css/main.2e7628bc.css",
+    "main.js": "/hr-tool/static/js/main.82842f2a.js",
+    "static/js/453.d9b946e2.chunk.js": "/hr-tool/static/js/453.d9b946e2.chunk.js",
+    "index.html": "/hr-tool/index.html",
+    "main.2e7628bc.css.map": "/hr-tool/static/css/main.2e7628bc.css.map",
+    "main.82842f2a.js.map": "/hr-tool/static/js/main.82842f2a.js.map",
+    "453.d9b946e2.chunk.js.map": "/hr-tool/static/js/453.d9b946e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7628bc.css",
+    "static/js/main.82842f2a.js"
+  ]
+}
